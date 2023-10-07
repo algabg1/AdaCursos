@@ -21,10 +21,14 @@ public class Introducao {
         boolean estaSol = true;
         boolean vamosAPraia = finalDeSemana && estaSol;
 
-        //System.out.println(vamosAPraia);
+        System.out.println(vamosAPraia);
+
+        System.out.println("=============================");
 
         String mensagem = finalDeSemana ? "É final de semnana" : "Não é final de semana";
-        //System.out.println(mensagem);
+        System.out.println(mensagem);
+
+        System.out.println("=============================");
 
         /*
          * relembrando valores lógicos
