@@ -1,2 +1,1 @@
-# AdaCursos-Java
-Cursos Ada Tech
+# AdaCursos
